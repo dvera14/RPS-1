@@ -1,4 +1,5 @@
 # RPS-1
 __________________________________________________________________________________________________________________
-The second block of code is where you should input the image path. Currently there is "last_frame_path" please change this to you image path 
+The second block of code is where you should input the image path. Currently there is "last_frame_path" please change this to you image path.
+If you are suing you web camera then use the first block of code. 
 
