@@ -1,2 +1,4 @@
 # RPS-1
-Machine learning model to predict hand gestures for a Rock-Paper-Scissors game
+__________________________________________________________________________________________________________________
+The second block of code is where you should input the image path. Currently there is "last_frame_path" please change this to you image path 
+
