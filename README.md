@@ -8,7 +8,7 @@ Please download the notebook as colab does not give a preview. You will then hav
 Run the first block of code.
 This will activate your webcam, capture a frame, and send it to the model for prediction.
 
-### 2. Using a Saved Image
+### 2. Using a Saved Image (images are in the github above)
 
 In the second block of code, replace:
 
